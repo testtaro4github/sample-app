@@ -1,4 +1,4 @@
-package jp.co.sample.lancher;
+package jp.co.sample.launcher;
 
 import javax.swing.JFrame;
 
