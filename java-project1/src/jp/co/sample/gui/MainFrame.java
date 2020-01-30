@@ -8,6 +8,7 @@ public class MainFrame extends JFrame {
 		setTitle("Hello World!");
 		setBounds(100, 100, 600, 400);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		System.out.println("ソース1修正"); // ←ここ
 	}
 
 }
