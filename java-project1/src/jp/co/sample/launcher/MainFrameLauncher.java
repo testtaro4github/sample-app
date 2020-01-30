@@ -13,6 +13,7 @@ public class MainFrameLauncher {
 		JFrame frame = new MainFrame();
 		frame.setVisible(true);
 		SomethingUtils.printToConsole(frame.getTitle() + "が起動されました。");
+		System.out.println("ソース3修正"); // ← ここ
 	}
 
 }
